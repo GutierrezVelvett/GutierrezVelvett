@@ -5,7 +5,8 @@
 ❤️ I design intuitive websites and Android apps. <br/>
 🧠 I’m currently immersed in a bootcamp working on various development projects. <br/>
 
-
+## Portafolio:
+[![Portfolio]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gutierrezvelvett@outlook.com](https://www.notion.so/Velvett-Guti-rrez-Web-developer-2fd723f0bc3c807283aaed6d616eef3f?source=copy_link)) 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yyGEdKQU) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/velvett-gutierrez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gutierrezvelvett@outlook.com) 
 
